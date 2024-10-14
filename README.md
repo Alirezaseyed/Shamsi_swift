@@ -13,9 +13,6 @@
 - **رابط کاربری ساده و زیبا:**  
   طراحی رابط کاربری با استفاده از `VStack` و رنگ‌های سفارشی همراه با گوشه‌های گرد، تجربه بصری مدرنی ارائه می‌دهد.
 
-## پیش‌نمایش
-
-![تصویر پیش‌نمایش](مسیر-تصویر-پیش-نمایش)
 
 ## نصب و اجرا
 
@@ -23,7 +20,7 @@
 
 1. مخزن را کلون کنید:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Alirezaseyed/Shamsi_swift.git)
+   git clone [https://github.com/Alirezaseyed/your-repo-name.git](https://github.com/Alirezaseyed/Shamsi_swift.git)
    ```
    #توضیحات کد
 
